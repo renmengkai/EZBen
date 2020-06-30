@@ -5,11 +5,12 @@
       My name is Ren mengkai
     </p>
     <p style="margin-top:2vh;">
-      I am a "brick worker" (Programmer) in second tier cities, my personal hobbies are network security and business finance.
-      My current position is a Java Web Development Engineer, and I like to study small open source projects on <a href="https://github.com/renmengkai" target="_blank">GitHub</a>.
+      I am a "bricklayer" (programmer) in a second-tier city.
+      My personal hobby is network security and business finance. <br/>
+      My current position is as a Java Web development engineer, and I love researching small open source projects on <a href="https://github.com/renmengkai" target="_blank">GitHub</a>.
     </p>
     <p style="margin-top:2vh;">
-      I am also trying to keep writing <a href="http://blog.mengkai.ren" target="_blank">Blog</a>, constantly accumulate practical and theoretical knowledge, and improve my personal ability.
+      I am also trying to keep writing <a href="http://blog.mengkai.ren" target="_blank">blogs</a> to accumulate practical and theoretical knowledge and improve my personal ability.
     </p>
     <p style="margin-top:2vh;">
       Glad to meet you, my friend!
@@ -44,7 +45,7 @@ p {
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.4;
-  max-width: 32em;
+  max-width: 28em;
 }
 a {
   text-decoration: none;
