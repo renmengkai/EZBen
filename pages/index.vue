@@ -10,7 +10,7 @@
       My current position is as a Java Web development engineer, and I love researching small open source projects on <a href="https://github.com/renmengkai" target="_blank">GitHub</a>.
     </p>
     <p style="margin-top:2vh;">
-      I am also trying to keep writing <a href="http://blog.mengkai.ren" target="_blank">blogs</a> to accumulate practical and theoretical knowledge and improve my personal ability.
+      I am also trying to keep writing <a href="https://www.cnblogs.com/renmengkai" target="_blank">blogs</a> to accumulate practical and theoretical knowledge and improve my personal ability.
     </p>
     <p style="margin-top:2vh;">
       Glad to meet you, my friend!
